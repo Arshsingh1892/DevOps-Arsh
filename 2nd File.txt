@@ -1,0 +1,5 @@
+Just another file to test connection with the SSH
+we will try messing with it a little more.
+And now we can commit from the Linux using SSH.
+This comment is being made from the Linux terminal to mark the success of the SSH connectivity
+
